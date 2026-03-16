@@ -23,10 +23,10 @@ not clean tutorial files. Every project here goes from raw data to business insi
 
 | # | Project | Tools | Highlight |
 |---|---------|-------|-----------|
-| 1 | [🏍️ Motorcycle Price Analysis](https://github.com/YOUR_USERNAME/motorcycle-price-analysis) | Python, scikit-learn | RF model cut MAE by 51% — ₹36,854 → ₹18,095 |
-| 2 | [🛒 Retail Sales Analytics](https://github.com/YOUR_USERNAME/retail-sales-analytics) | Python, pandas | 131% revenue growth + r=0.00 discount-profit discovery |
-| 3 | [🗄️ Retail Sales SQL](https://github.com/YOUR_USERNAME/retail-sales-sql) | Python, SQLite | 20 queries — JOINs, CTEs, Window Functions |
-| 4 | [🍕 Pizza Sales Dashboard](https://github.com/YOUR_USERNAME/pizza-sales-dashboard) | Tableau | $817.9K revenue · Friday = 140x daily average |
+| 1 | [🏍️ Motorcycle Price Analysis](https://github.com/roshani-ahire-09/motorcycle-price-analysis) | Python, scikit-learn | RF model cut MAE by 51% — ₹36,854 → ₹18,095 |
+| 2 | [🛒 Retail Sales Analytics](https://github.com/roshani-ahire-09/retail-sales-analytics) | Python, pandas | 131% revenue growth + r=0.00 discount-profit discovery |
+| 3 | [🗄️ Motorcycle SQL Analysis](https://github.com/roshani-ahire-09/motorcycle-sql-analysis) | Python, SQLite | 20 SQL queries on motorcycle data — JOINs, CTEs, Window Functions |
+| 4 | [🍕 Pizza Sales Dashboard](https://github.com/roshani-ahire-09/pizza-sales-dashboard) | Tableau | $817.9K revenue · Friday = 140x daily average |
 
 ---
 
@@ -45,7 +45,7 @@ not clean tutorial files. Every project here goes from raw data to business insi
 
 🔍 Looking for **entry-level or junior Data Analyst roles**  
 📍 Based in India · Open to remote  
-📧 roshani@email.com  
+📧 roshaniahire1110@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/roshaniahire)
 
 ---
